@@ -1,0 +1,13 @@
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.exe
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.deps.json
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.runtimeconfig.json
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.runtimeconfig.dev.json
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.dll
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\bin\Debug\netcoreapp3.1\Prac2.pdb
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.csprojAssemblyReference.cache
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.AssemblyInfoInputs.cache
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.AssemblyInfo.cs
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.csproj.CoreCompileInputs.cache
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.dll
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.pdb
+C:\Users\Hit\Desktop\NET\Prac2\Prac2\Prac2\obj\Debug\netcoreapp3.1\Prac2.genruntimeconfig.cache
